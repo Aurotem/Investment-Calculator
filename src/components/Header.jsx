@@ -1,7 +1,7 @@
 import logo from '../assets/investment-calculator-logo.png';
 function Header() {
   return (
-    <header>
+    <header id='header'>
       <img
         src={logo}
         alt="Money bag logo"
